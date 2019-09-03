@@ -5,6 +5,7 @@ In this small 'game' you can place a:
 - Start
 - Finish
 - Obstacles
+
 in a 7x7 grid. The algoritm will then search for the best route with the Q-learning algorithm. Speed is adjustable.
 
 ### Thanks to
