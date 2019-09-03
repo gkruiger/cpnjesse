@@ -1,6 +1,8 @@
 # cpnjesse
 Exploring the concept of Reinforcement Learning with the Q-Learning algorithm in my blog: https://www.ontdeksels.nl/ontdeksel-11-de-kunstmatige-intelligentie-van-cpn-jesse/ (Dutch).
 
+!screenshot.png
+
 In this small 'game' you can place a:
 - Start
 - Finish
